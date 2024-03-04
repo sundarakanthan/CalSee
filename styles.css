@@ -1,0 +1,47 @@
+button {
+    height: 70px;
+    font-size: 1.5rem;
+    background-color: rgb(16, 37, 56);
+   border: 1px solid rgb(71, 71, 73);
+   color: white;
+}
+
+
+input {
+    padding: 10px;
+height: 80px;
+border: none;
+width: 100px;
+color: white;
+}
+
+.form-control {
+    text-align: right;
+border: none;
+background-color: rgb(71, 70, 70);
+border-radius: 0;
+color: white;
+font-size: 1rem;
+}
+#displayInput{
+    font-size: 2.3rem;
+}
+#resultOutput{
+    font-size: 3rem;
+    font-weight: bold;
+}
+.number-key{
+    background-color: rgb(70, 101, 122);
+}
+.operator-key{
+    background-color: rgb(39, 61, 71);
+}
+.equal-key{
+    background-color: rgb(230, 154, 14);
+}
+.clear-key{
+    background-color: rgb(110, 44, 44);
+}
+.remove-key{
+    background-color: rgb(44, 110, 74);;
+}
