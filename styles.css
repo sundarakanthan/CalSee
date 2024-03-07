@@ -76,6 +76,9 @@ font-size: 1rem;
 /*Desktop width*/
 @media (min-width: 1000px) {
 
+    button,.clear-key,.remove-key{
+        font-size: 3rem;
+    }
 
     .number-key,
     .operator-key,
