@@ -18,30 +18,72 @@ color: white;
 .form-control {
     text-align: right;
 border: none;
-background-color: rgb(71, 70, 70);
+background-color: #000000;
 border-radius: 0;
 color: white;
 font-size: 1rem;
 }
 #displayInput{
-    font-size: 2.3rem;
+    font-size: 2rem;
 }
 #resultOutput{
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: bold;
 }
 .number-key{
-    background-color: rgb(70, 101, 122);
+    background-color: rgb(58, 59, 59);
 }
 .operator-key{
-    background-color: rgb(39, 61, 71);
+    background-color: rgb(32, 34, 34);
 }
 .equal-key{
-    background-color: rgb(230, 154, 14);
+    background-color: #ce8d13;
 }
 .clear-key{
-    background-color: rgb(110, 44, 44);
+    border-radius: 0;
 }
 .remove-key{
-    background-color: rgb(44, 110, 74);;
+    border-radius: 0;
+}
+@media (max-width:500px) {
+    #displayInput{
+        font-size: 2rem;
+    }
+    #resultOutput{
+        font-size: 3rem;
+        font-weight: bold;
+    }
+   
+}
+
+ /* 501-991 odd font size make it smaller
+@media (min-width:500px) and(max-width:1000px) {
+    #resultOutput{
+        font-size: 2rem;
+    }
+} */
+
+
+/*Desktop width*/
+@media (min-width: 1000px) {
+
+
+    .number-key,
+    .operator-key,
+    .clear-key,
+    .remove-key,
+    .equal-key {
+        height: 120px;
+      /* Adjust the height as needed */
+    }
+    #resultOutput{
+        font-size: 5rem;
+        font-weight: bold;
+    }
+    #displayInput{
+        font-size: 4rem;
+    }
+    input{
+        height: 120px;
+    }
 }
