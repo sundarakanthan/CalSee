@@ -4,14 +4,11 @@ The working is quite simple like other calculators.
 The main objective of this app is to showcase responsive layout.
 Used bootstrap's grid layout to make it responsive in all devices.
 This project is live at https://sundarakanthan.github.io/CalSee/ 
-To test it:
-  open the https://sundarakanthan.github.io/CalSee/ 
-  Then go to responsive mode -> set Dimensions:Responsive , shrink and test the responsiveness.
+<h3></h3>To test it:</h3>
+  - open the https://sundarakanthan.github.io/CalSee/ 
+  - Then go to responsive mode -> set Dimensions: Responsive, shrink, and test the responsiveness if the layout.
 
-  - [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
 
 Future Upgrades:
-  Adding the clear functionality (removing numbers one by one)
-  Adding Animations and changing UI
+ -[] Adding the clear functionality (removing numbers one by one)
+ -[] Adding Animations and changing UI
