@@ -4,7 +4,7 @@ The working is quite simple like other calculators.
 The main objective of this app is to showcase responsive layout.
 Used bootstrap's grid layout to make it responsive in all devices.<br><br>
 
- [DEMO LINK](https://sundarakanthan.github.io/CalSee/)
+ **[DEMO LINK](https://sundarakanthan.github.io/CalSee/)**
 
 
 <h3>To test it:</h3>
