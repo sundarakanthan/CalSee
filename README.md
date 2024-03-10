@@ -8,6 +8,10 @@ To test it:
   open the https://sundarakanthan.github.io/CalSee/ 
   Then go to responsive mode -> set Dimensions:Responsive , shrink and test the responsiveness.
 
+  - [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
 Future Upgrades:
   Adding the clear functionality (removing numbers one by one)
   Adding Animations and changing UI
