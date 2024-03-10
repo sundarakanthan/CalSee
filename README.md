@@ -10,5 +10,5 @@ This project is live at https://sundarakanthan.github.io/CalSee/
 
 
 Future Upgrades:
- -[] Adding the clear functionality (removing numbers one by one)
- -[] Adding Animations and changing UI
+ -[ ] Adding the clear functionality (removing numbers one by one)
+ -[ ] Adding Animations and changing UI
