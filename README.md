@@ -9,9 +9,6 @@ This project is live at https://sundarakanthan.github.io/CalSee/
   - [x] Open the https://sundarakanthan.github.io/CalSee/ 
   - [x] Then go to responsive mode -> set Dimensions: Responsive, shrink, and test the responsiveness if the layout.
  
-
-
-
 <h3>Future Upgrades:</h3>
 
  - [ ] Adding the clear functionality (removing numbers one by one)
