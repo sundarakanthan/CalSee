@@ -1,6 +1,9 @@
+<h2>CalSee</h2>
 Calsee is a simple calculator app built using HTML5, CSS3, Bootstrap and Javascript.
-The working is quite simple like other calculators.
-Used bootstrap grid layout to make it responsive in all devices.
+The working is quite simple like other calculators. 
+The main objective of this app is to showcase responsive layout.
+Used bootstrap's grid layout to make it responsive in all devices.
+This project is live at https://sundarakanthan.github.io/CalSee/ 
 To test it:
   open the https://sundarakanthan.github.io/CalSee/ 
   Then go to responsive mode -> set Dimensions:Responsive , shrink and test the responsiveness.
