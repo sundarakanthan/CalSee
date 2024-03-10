@@ -5,8 +5,11 @@ The main objective of this app is to showcase responsive layout.
 Used bootstrap's grid layout to make it responsive in all devices.
 This project is live at https://sundarakanthan.github.io/CalSee/ 
 <h3>To test it:</h3>
-  - open the https://sundarakanthan.github.io/CalSee/ 
-  - Then go to responsive mode -> set Dimensions: Responsive, shrink, and test the responsiveness if the layout.
+<ul>
+  - [x] Open the https://sundarakanthan.github.io/CalSee/ 
+ - [x]Then go to responsive mode -> set Dimensions: Responsive, shrink, and test the responsiveness if the layout.
+ 
+  </ul>
 
 
 Future Upgrades:
