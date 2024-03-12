@@ -9,7 +9,7 @@ Used bootstrap's grid layout to make it responsive in all devices and sizes.<br>
 
 <h3>To test it:</h3>
 
-  - [x]Open the app in your browser using the demo link.
+  - [x] Open the app in your browser using the demo link.
   - [x] Then go to responsive mode -> set Dimensions: Responsive, shrink, and test the responsiveness of the layout.
  
 <h3>Future Upgrades:</h3>
