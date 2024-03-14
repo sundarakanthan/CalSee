@@ -14,7 +14,7 @@
 <body>
     <h1 class="text-center mt-5">CalSee</h1>
 
-    <div class="calculator container ">
+    <div class="calculator container " id="calculator">
         <div class="row">
             <div class="col-12 col-md-12">
                 <div class="display">
@@ -25,7 +25,7 @@
         </div>
         <div class="row">
             <div class="col">
-                <div class="buttons container ">
+                <div class="buttons container " id="buttons">
                     <div class="row">
                         <button class=" col-md-2 col-sm-2 number-key col-2" onclick="showInDisplay('9')">9</button>
                         <button class=" col-md-2 col-sm-2 number-key col-2" onclick="showInDisplay('8')">8</button>
@@ -38,7 +38,7 @@
                         <button class=" col-md-2 col-sm-2 number-key col-2" onclick="showInDisplay('5')">5</button>
                         <button class=" col-md-2 col-sm-2 number-key col-2" onclick="showInDisplay('4')">4</button>
                         <button class=" col-md-2 col-sm-2 operator-key col-2" onclick="showInDisplay('-')">-</button>
-                        <button class=" col-md-4 col-sm-4 remove-key btn btn-secondary col-4" onclick="removeChar()">Clear</button>
+                        <button class=" col-md-4 col-sm-4 remove-key btn btn-secondary col-4" onclick="removeLastChar()">Clear</button>
                     </div>
                     <div class="row">
                         <button class=" col-md-2 col-sm-2 number-key col-2" onclick="showInDisplay('3')">3</button>
